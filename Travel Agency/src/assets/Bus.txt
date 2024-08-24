@@ -1,0 +1,112 @@
+[
+  {
+    "from": "Chennai",
+    "to": "Coimbatore",
+    "date": "2024-09-01",
+    "busName": "Fast Express",
+    "departureTime": "06:00",
+    "arrivalTime": "12:00",
+    "seatsAvailable": 20,
+    "price": 500
+  },
+  {
+    "from": "Coimbatore",
+    "to": "Madurai",
+    "date": "2024-09-01",
+    "busName": "Southern Star",
+    "departureTime": "08:00",
+    "arrivalTime": "14:00",
+    "seatsAvailable": 15,
+    "price": 450
+  },
+  {
+    "from": "Madurai",
+    "to": "Tirunelveli",
+    "date": "2024-09-01",
+    "busName": "Tirunelveli Express",
+    "departureTime": "09:00",
+    "arrivalTime": "13:00",
+    "seatsAvailable": 25,
+    "price": 400
+  },
+  {
+    "from": "Tirunelveli",
+    "to": "Kanyakumari",
+    "date": "2024-09-01",
+    "busName": "Cape Comorin Bus",
+    "departureTime": "10:00",
+    "arrivalTime": "12:00",
+    "seatsAvailable": 30,
+    "price": 350
+  },
+  {
+    "from": "Chennai",
+    "to": "Tiruchirappalli",
+    "date": "2024-09-01",
+    "busName": "Trichy Connect",
+    "departureTime": "07:00",
+    "arrivalTime": "13:00",
+    "seatsAvailable": 10,
+    "price": 550
+  },
+  {
+    "from": "Tiruchirappalli",
+    "to": "Salem",
+    "date": "2024-09-01",
+    "busName": "Salem Shuttle",
+    "departureTime": "11:00",
+    "arrivalTime": "15:00",
+    "seatsAvailable": 18,
+    "price": 500
+  },
+  {
+    "from": "Salem",
+    "to": "Dharmapuri",
+    "date": "2024-09-01",
+    "busName": "Dharmapuri Express",
+    "departureTime": "12:00",
+    "arrivalTime": "14:00",
+    "seatsAvailable": 22,
+    "price": 400
+  },
+  {
+    "from": "Dharmapuri",
+    "to": "Hosur",
+    "date": "2024-09-01",
+    "busName": "Hosur Link",
+    "departureTime": "14:00",
+    "arrivalTime": "16:00",
+    "seatsAvailable": 20,
+    "price": 350
+  },
+  {
+    "from": "Hosur",
+    "to": "Bengaluru",
+    "date": "2024-09-01",
+    "busName": "Bengaluru Express",
+    "departureTime": "16:00",
+    "arrivalTime": "20:00",
+    "seatsAvailable": 12,
+    "price": 600
+  },
+  {
+    "from": "Chennai",
+    "to": "Pudukkottai",
+    "date": "2024-09-01",
+    "busName": "Pudukkottai Service",
+    "departureTime": "05:00",
+    "arrivalTime": "11:00",
+    "seatsAvailable": 24,
+    "price": 470
+  },
+  {
+    "from": "Pudukkottai",
+    "to": "Thanjavur",
+    "date": "2024-09-01",
+    "busName": "Thanjavur Express",
+    "departureTime": "13:00",
+    "arrivalTime": "15:00",
+    "seatsAvailable": 17,
+    "price": 420
+  }
+]
